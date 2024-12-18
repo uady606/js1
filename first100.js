@@ -1,7 +1,7 @@
 for (let i = 1; i <=100; i++) {
-    const number = i;
-    let isPrime = isPrimeNumber(number);
-    if(isPrime) {
+    const number=i ;
+    let isprime=isPrimeNumber(number);
+    if(isprime) {
         console.log(`${number} is a prime number`);
     } 
 }
